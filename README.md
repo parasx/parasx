@@ -2,7 +2,7 @@
 
 Coding Bugs were NOT named after an actual bug
 
-Skills: VUE JS / REACT / JS / HTML / CSS / UiUx 
+Skills: VUE JS / REACT / JS / HTML / CSS / AWS
 
 - 🌱 I’m currently learning AWS 
 - 🤔 I’m looking for help with Cloud Computing  
